@@ -45,7 +45,7 @@ It helps us understand:
 
 Open terminal and type:
 
-```bash
+`bash
 
 #Keep both files in same folder
 E_library_dashboard
