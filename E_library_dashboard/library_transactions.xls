@@ -1,0 +1,66 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days)
+T001,2024-01-05,U101,The Silent Patient,Thriller,14
+T002,2024-01-08,U102,Atomic Habits,Self-Help,21
+T003,2024-01-12,U103,The Alchemist,Fiction,10
+T004,2024-01-15,U101,Educated,Memoir,18
+T005,2024-01-20,U104,Sapiens,History,25
+T006,2024-01-22,U105,The Midnight Library,Fiction,12
+T007,2024-01-25,U102,Atomic Habits,Self-Help,15
+T008,2024-02-01,U106,Gone Girl,Thriller,20
+T009,2024-02-03,U103,The Alchemist,Fiction,9
+T010,2024-02-07,U107,Becoming,Memoir,16
+T011,2024-02-10,U101,The Silent Patient,Thriller,11
+T012,2024-02-14,U108,Thinking Fast and Slow,Psychology,22
+T013,2024-02-18,U104,Sapiens,History,19
+T014,2024-02-20,U109,Project Hail Mary,Science Fiction,14
+T015,2024-02-25,U105,The Midnight Library,Fiction,13
+T016,2024-03-01,U110,Atomic Habits,Self-Help,17
+T017,2024-03-05,U102,Educated,Memoir,12
+T018,2024-03-08,U111,Dune,Science Fiction,28
+T019,2024-03-12,U103,The Alchemist,Fiction,8
+T020,2024-03-15,U106,Gone Girl,Thriller,15
+T021,2024-03-18,U112,The Psychology of Money,Self-Help,20
+T022,2024-03-22,U101,The Silent Patient,Thriller,10
+T023,2024-03-25,U107,Becoming,Memoir,14
+T024,2024-04-01,U113,Sapiens,History,21
+T025,2024-04-05,U104,Project Hail Mary,Science Fiction,16
+T026,2024-04-08,U108,Thinking Fast and Slow,Psychology,18
+T027,2024-04-12,U105,The Midnight Library,Fiction,11
+T028,2024-04-15,U110,Atomic Habits,Self-Help,13
+T029,2024-04-18,U109,Dune,Science Fiction,24
+T030,2024-04-22,U102,Educated,Memoir,9
+T031,2024-04-25,U114,The Silent Patient,Thriller,17
+T032,2024-05-01,U103,The Alchemist,Fiction,7
+T033,2024-05-05,U111,Gone Girl,Thriller,19
+T034,2024-05-08,U106,Sapiens,History,15
+T035,2024-05-12,U115,Atomic Habits,Self-Help,22
+T036,2024-05-15,U101,The Midnight Library,Fiction,10
+T037,2024-05-18,U107,Becoming,Memoir,13
+T038,2024-05-22,U112,The Psychology of Money,Self-Help,16
+T039,2024-05-25,U104,Project Hail Mary,Science Fiction,20
+T040,2024-06-01,U108,Thinking Fast and Slow,Psychology,14
+T041,2024-06-05,U113,Dune,Science Fiction,26
+T042,2024-06-08,U105,The Alchemist,Fiction,9
+T043,2024-06-12,U110,Atomic Habits,Self-Help,11
+T044,2024-06-15,U102,Educated,Memoir,15
+T045,2024-06-18,U116,The Silent Patient,Thriller,12
+T046,2024-06-22,U109,Sapiens,History,18
+T047,2024-06-25,U111,Gone Girl,Thriller,14
+T048,2024-07-01,U103,The Midnight Library,Fiction,8
+T049,2024-07-05,U114,Atomic Habits,Self-Help,19
+T050,2024-07-08,U106,Becoming,Memoir,13
+T051,2024-07-12,U101,Project Hail Mary,Science Fiction,17
+T052,2024-07-15,U107,Thinking Fast and Slow,Psychology,21
+T053,2024-07-18,U115,Dune,Science Fiction,23
+T054,2024-07-22,U104,The Alchemist,Fiction,10
+T055,2024-07-25,U112,The Psychology of Money,Self-Help,15
+T056,2024-08-01,U108,Sapiens,History,16
+T057,2024-08-05,U110,Atomic Habits,Self-Help,12
+T058,2024-08-08,U102,The Silent Patient,Thriller,9
+T059,2024-08-12,U113,Educated,Memoir,14
+T060,2024-08-15,U105,The Midnight Library,Fiction,11
+T061,2024-01-10,U117,Atomic Habits,Self-Help,
+T062,2024-02-28,U118,The Alchemist,Fiction,abc
+T063,2024-03-30,U119,,Thriller,15
+T064,2024-04-28,U120,Sapiens,History,-5
+T065,2024-05-30,U101,The Silent Patient,Thriller,14
